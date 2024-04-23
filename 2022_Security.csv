@@ -1,3 +1,4 @@
+Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description,Note,,,,
 FS,Suite of Food Security Indicators,4,Afghanistan,6126,Value,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",2021,2021,I$,1516.3,X,Figure from international organizations,,,,,
 FS,Suite of Food Security Indicators,8,Albania,6126,Value,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",2021,2021,I$,14516.3,X,Figure from international organizations,,,,,
 FS,Suite of Food Security Indicators,12,Algeria,6126,Value,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",2021,2021,I$,11039.8,X,Figure from international organizations,,,,,
@@ -184,7 +185,6 @@ FS,Suite of Food Security Indicators,548,Vanuatu,6126,Value,22013,"Gross domesti
 FS,Suite of Food Security Indicators,704,Viet Nam,6126,Value,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",2021,2021,I$,10628.2,X,Figure from international organizations,,,,,
 FS,Suite of Food Security Indicators,894,Zambia,6126,Value,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",2021,2021,I$,3236.8,X,Figure from international organizations,,,,,
 FS,Suite of Food Security Indicators,716,Zimbabwe,6126,Value,22013,"Gross domestic product per capita, PPP, (constant 2017 international $)",2021,2021,I$,2115.1,X,Figure from international organizations,,,,,
-Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description,Note,,,,
 FS,Suite of Food Security Indicators,4,Afghanistan,6132,Value,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),20202022,2020-2022,million No,9.7,A,Official figure,FAO data,,,,
 FS,Suite of Food Security Indicators,4,Afghanistan,61321,Confidence interval: Lower bound,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),20202022,2020-2022,million No,9.3,A,Official figure,FAO data,,,,
 FS,Suite of Food Security Indicators,4,Afghanistan,61322,Confidence interval: Upper bound,210081F,Number of moderately or severely food insecure female adults (million) (3-year average),20202022,2020-2022,million No,10,A,Official figure,FAO data,,,,
